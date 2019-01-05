@@ -1,0 +1,12 @@
+{
+  "name": "Lesson02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build":"NODE_ENV=production gulp build"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}

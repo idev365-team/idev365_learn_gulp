@@ -1,0 +1,15 @@
+{
+  "name": "Lesson04",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-transform-arrow-functions": "^7.2.0",
+    "@babel/preset-env": "^7.2.3",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}
